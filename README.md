@@ -1,1 +1,1 @@
-- 🌱 I’m currently learning Golang in Skillbox
+- 🌱 В настоящее время я изучаю Golang в Skillbox
